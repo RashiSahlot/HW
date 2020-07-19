@@ -1,0 +1,5 @@
+#include<stdio.h>
+Main()
+{
+printf("Hello,there everyone in our big round globe!");
+}
